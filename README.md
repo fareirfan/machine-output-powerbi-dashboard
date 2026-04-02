@@ -34,7 +34,7 @@ Built a fully automated pipeline — from raw `.log` file ingestion to an intera
 - **Production Output Tracking** — Monitor total input and output units per machine, per shift, and over time
 - **Rejection Quantity & Rate** — Identify defect trends at a granular level to drive process improvement
 - **Yield Trend Analysis** — Visualize yield performance over time to spot degradation or improvement
-- **Anomaly Detection** — Flagging of abnormal readings identified during exploratory data analysis
+- **Anomaly Detection** — Flagging of abnormal readings identified during exploratory data analysis (Excel)
 - **Multi-level Reporting** — Views tailored for engineers (detailed drill-down) and management (high-level KPIs)
 
 ---
