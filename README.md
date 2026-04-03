@@ -104,7 +104,7 @@ Built a fully automated pipeline — from raw `.log` file ingestion to an intera
 ```
 machine-output-powerbi-dashboard/
 │
-├── README.md                   ← **You are here**
+├── README.md                   ← You are here
 ├── dashboard.pbix              ← Power BI report file (sanitized)
 └── assets/
     └── dashboard_preview.png   ← Dashboard screenshot
