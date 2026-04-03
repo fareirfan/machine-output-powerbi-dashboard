@@ -106,8 +106,8 @@ machine-output-powerbi-dashboard/
 │
 ├── README.md                   ← You are here
 ├── dashboard.pbix              ← Power BI report file (sanitized)
-└── assets/
-    └── dashboard_preview.png   ← Dashboard screenshot
+└── Screenshots/
+    └── ___.png   ← Dashboard screenshot
 ```
 
 > ⚠️ **Note:** All data in this repository has been sanitized. Machine identifiers, production values, and any proprietary information have been replaced with anonymized dummy data to protect confidentiality.
