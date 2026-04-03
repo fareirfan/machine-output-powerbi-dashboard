@@ -133,4 +133,4 @@ machine-output-powerbi-dashboard/
 
 ---
 
-*Built during an apprenticeship program in the semiconductor/electronics manufacturing industry.*
+*Built during an apprenticeship program at Celestica Electronics (M) Sdn Bhd*
