@@ -129,7 +129,7 @@ machine-output-powerbi-dashboard/
 
 **Fariez Eirfan** — Aspiring Data Analyst with a background in Mechanical Engineering (UTM). Passionate about turning raw operational data into actionable insights that drive real business decisions.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/fariezeirfan)
+🔗 [LinkedIn - Fariez Eirfan](https://www.linkedin.com/in/fariezeirfan)
 
 ---
 
