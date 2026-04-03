@@ -121,12 +121,7 @@ machine-output-powerbi-dashboard/
    git clone https://github.com/fareirfan/machine-output-powerbi-dashboard.git
    ```
 
-2. **Run the PowerShell script** to simulate the data extraction pipeline
-   ```powershell
-   .\scripts\extract_data.ps1
-   ```
-
-3. **Open `dashboard.pbix`** in Microsoft Power BI Desktop to explore the report
+2. **Open `dashboard.pbix`** in Microsoft Power BI Desktop to explore the report
 
 ---
 
