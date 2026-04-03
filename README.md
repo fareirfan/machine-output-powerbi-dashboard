@@ -104,10 +104,8 @@ Built a fully automated pipeline — from raw `.log` file ingestion to an intera
 ```
 machine-output-powerbi-dashboard/
 │
-├── README.md                   ← You are here
+├── README.md                   ← **You are here**
 ├── dashboard.pbix              ← Power BI report file (sanitized)
-├── scripts/
-│   └── extract_data.ps1        ← PowerShell automation script (sanitized)
 └── assets/
     └── dashboard_preview.png   ← Dashboard screenshot
 ```
@@ -120,7 +118,7 @@ machine-output-powerbi-dashboard/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/fariezeirfan/machine-output-powerbi-dashboard.git
+   git clone https://github.com/fareirfan/machine-output-powerbi-dashboard.git
    ```
 
 2. **Run the PowerShell script** to simulate the data extraction pipeline
